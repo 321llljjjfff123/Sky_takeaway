@@ -8,6 +8,6 @@ sky:
     password: 123456
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tN1ypJe4ukNX
-    access-key-secret: HmzSFCJVL82vj3UUPQ
+    access-key-id: LTAI5tN1b7jePURypJe4ukNX
+    access-key-secret: HmzSFCJzZRBPQWxSavdVL82vj3UUPQ
     bucket-name: aly-oss-test-cunchu
