@@ -11,3 +11,7 @@ sky:
     access-key-id: LTAI5tN1b7jePURypJe4ukNX
     access-key-secret: HmzSFCJzZRBPQWxSavdVL82vj3UUPQ
     bucket-name: aly-oss-test-cunchu
+  redis:
+    host: localhost
+    port: 6379
+    database: 0
